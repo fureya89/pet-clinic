@@ -19,7 +19,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project from Spring Frameworg Guru course</description>
 
@@ -27,6 +27,10 @@
         <java.version>1.8</java.version>
         <start-class>com.example.petclinic.PetClinicApplication</start-class>
     </properties>
+
+    <scm>
+        <developerConnection>scm:git:git@github.com:fureya89/pet-clinic.git</developerConnection>
+    </scm>
 
     <build>
         <plugins>
