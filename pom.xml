@@ -29,8 +29,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:fureya89/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.3</tag>
-  </scm>
+    </scm>
 
     <build>
         <plugins>
