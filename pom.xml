@@ -18,7 +18,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project from Spring Frameworg Guru course</description>
 
@@ -28,7 +28,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:fureya89/pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/fureya89/pet-clinic.git</developerConnection>
     </scm>
 
     <build>
