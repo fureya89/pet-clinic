@@ -28,7 +28,8 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:fureya89/pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/fureya89/pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
